@@ -2,7 +2,7 @@
   "name": "my_portfolio",
   "homepage": "https://kmanasi1821.github.io/portfolio/",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
