@@ -1,0 +1,53 @@
+.logoHeading {
+  display: flex;
+  flex: 1;
+}
+.Heading {
+  padding-left: 0.5rem;
+}
+.navMenu {
+  display: flex;
+  list-style: none;
+}
+.navMenu li {
+  padding-left: 1rem;
+}
+.navMenu li a {
+  text-decoration: none;
+  color: white;
+}
+.icon {
+  color: white;
+}
+.MobileHeading {
+  font-size: 25px;
+  padding-left: 2rem;
+  padding-bottom: 2rem;
+}
+.mobileNavbar {
+  list-style: none;
+  padding-left: 4.2rem;
+}
+.mobileNavbar li {
+  text-decoration: none;
+  margin-top: 1rem;
+  padding-top: 2rem;
+}
+.mobileNavbar li a {
+  text-decoration: none;
+  color: black;
+  font-size: 1.5rem;
+  margin-top: 1rem;
+  padding-top: 2rem;
+}
+.mobile_icon {
+  font-size: 3rem;
+  padding-left: 5rem;
+}
+.socialIcon {
+  text-align: center;
+  margin-top: 3rem;
+}
+.soc_icon {
+  padding-right: 1rem;
+}
